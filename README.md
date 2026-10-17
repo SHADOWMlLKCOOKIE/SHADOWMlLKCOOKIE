@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="./assets/musical-notes.gif" width="80" alt="Animated musical notes">
+  <img src="./assets/mystic-flour-mystic-flour-cookie.gif" width="45" alt="Mystic Flour Cookie">
+  <img src="./assets/crk-cookie-run.gif" width="45" alt="Cookie Run">
+  <img src="./assets/musical-notes.gif" width="55" alt="Musical notes">
+
   <a href="./assets/Cookie%20Run%20Kingdom_%20Shadow%20Milk%20Cookie%E2%80%99s%20Gacha%20Theme%20(OST).mp3">
   My Theme~ ♫
   </a> 🎭
 </p>
+  <img src="./assets/cookie-run-cookie-run-kingdom.gif" width="45" alt="Cookie Run Kingdom">
+
 
 <p align="center">
   <img src="https://i.giphy.com/D9bDvxJs7kZAXNYNnj.gif" width="1000" alt="My GIF">
