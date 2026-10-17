@@ -1,3 +1,11 @@
+<div align="center">
+  <p>♫ Shadow Milk Cookie's Gacha Theme ♫</p>
+  <audio controls loop>
+    <source src="./assets/Cookie%20Run%20Kingdom_%20Shadow%20Milk%20Cookie%E2%80%99s%20Gacha%20Theme%20(OST).mp3" type="audio/mpeg">
+    Your browser does not support audio.
+  </audio>
+</div>
+
 <p align="center">
   <img src="https://i.giphy.com/D9bDvxJs7kZAXNYNnj.gif" width="1000" alt="My GIF">
 </p>
