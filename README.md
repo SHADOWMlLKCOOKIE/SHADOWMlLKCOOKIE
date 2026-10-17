@@ -41,35 +41,77 @@ Cookie Tier:
 </p>
 
 ---
-
-# 🎭 Status: **Live on Stage**
-- 🔭 **Currently Staging:** Rewriting the script of Beast-Yeast (without asking permission)
-- 🧵 **Favorite Prop:** Animatronic of Deceit / Heavy silk royal blue puppet strings
-- 💬 **Current Mood:** Performing for an audience of fools and fans alike, or foolish cookies I adore~
-- 📍 **Location:** Behind the curtain (or right behind you)
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h2>🎭 Status: <b>Live on Stage</b></h2>
+      <ul>
+        <li>🔭 <b>Currently Staging:</b> Rewriting the script of Beast-Yeast (without asking permission)</li>
+        <li>🧵 <b>Favorite Prop:</b> Animatronic of Deceit / Heavy silk royal blue puppet strings</li>
+        <li>💬 <b>Current Mood:</b> Performing for an audience of fools and fans alike, or foolish cookies I adore~</li>
+        <li>📍 <b>Location:</b> Behind the curtain (or right behind you)</li>
+      </ul>
+    </td>
+    <td valign="middle" width="35%" align="center">
+      <img src="./assets/shadow-milk-cookie-cookie-run-kingdom%20(2).gif" width="220" alt="Shadow Milk Cookie">
+    </td>
+  </tr>
+</table>
+---
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h2>📝 Program Notes </h2>
+      <ul>
+        <li><b>Role:</b> Beast Cookie of Deceit &amp; Grand Master of the Theatre of Delusion</li>
+        <li><b>Alignment:</b> Chaotic - Theatrical</li>
+        <li><b>Fun Fact:</b> I didn't break the seal—the seal simply realized it looked better shattered.</li>
+        <li><b>Fanmail:</b> Send complaints directly into the nearest void; they make great acoustics.</li>
+      </ul>
+    </td>
+    <td valign="middle" width="35%" align="center">
+      <img src="./assets/shadow-milk-cookie-cookie-run-kingdom%20(4).gif" width="220" alt="Shadow Milk Cookie">
+    </td>
+  </tr>
+</table>
 
 ---
-
-# 📝 Program Notes (Small Details About Me)
-* **Role:** Beast Cookie of Deceit & Grand Master of the Theatre of Delusion
-* **Alignment:** Chaotic - Theatrical
-* **Fun Fact:** I didn't break the seal—the seal simply realized it looked better shattered.
-* **Fanmail:** Send complaints directly into the nearest void; they make great acoustics.
-
-<p align="center">
-  <img src="./assets/shadow-milk-cookie-cookie-run-kingdom%20(4).gif" width="300" alt="Shadow Milk Cookie">
-</p>
-
----
-
-# ✨ Featured Acts & Pinned Performances:
-
-| Performance | Act | Audience Reception | Status |
-| :--- | :--- | :--- | :--- |
-| **The Theatre of Lies** | Act I | 10/10 Gasps | Succeeded |
-| **The Dark Enchantress War** | Act II | A TOTAL Flop. | Archived |
-| **The Timeline of Fates** | Act III | Standing Ovation | Ongoing... |
-
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h2>✨ Featured Acts &amp; Pinned Performances</h2>
+      <table>
+        <tr>
+          <th>Performance</th>
+          <th>Act</th>
+          <th>Audience Reception</th>
+          <th>Status</th>
+        </tr>
+        <tr>
+          <td><b>The Theatre of Lies</b></td>
+          <td>Act I</td>
+          <td>10/10 Gasps</td>
+          <td>Succeeded</td>
+        </tr>
+        <tr>
+          <td><b>The Dark Enchantress War</b></td>
+          <td>Act II</td>
+          <td>A TOTAL Flop.</td>
+          <td>Archived</td>
+        </tr>
+        <tr>
+          <td><b>The Timeline of Fates</b></td>
+          <td>Act III</td>
+          <td>Standing Ovation</td>
+          <td>Ongoing...</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="middle" width="35%" align="center">
+      <img src="./assets/shadow-milk-cookie-shadow-milk.gif" width="220" alt="Shadow Milk Cookie">
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="./assets/shadowsugar-crk.gif" width="300" alt="Shadow Milk Cookie and Eternal Sugar Cookie">
 </p>
@@ -80,7 +122,9 @@ Cookie Tier:
 >
 > [<img width="3500" height="1080" alt="Image" src="https://ov16-engine.flamingtext.com/netfu/tmp28003/flamingtext_com-997356.png" />](https://domainofdeceit.atabook.org/)
 
-<img src="./assets/cutie-pie-shadow-milk-cookie.gif" width="300" alt="Cute Shadow Milk Cookie">
+<p align="center">
+  <img src="./assets/cutie-pie-shadow-milk-cookie.gif" width="300" alt="Cute Shadow Milk Cookie">
+</p>
 
 
 <!--
