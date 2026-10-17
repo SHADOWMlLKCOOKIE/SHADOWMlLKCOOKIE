@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/c0pppaw5e9ge1.jpeg" width="100%" alt="Profile banner">
+</p>
+
+<p align="center">
   <img src="./assets/musical-notes.gif" width="60" alt="Musical notes">
   <img src="./assets/mystic-flour-mystic-flour-cookie.gif" width="60" alt="Mystic Flour Cookie">
     <img src="./assets/cookie-run-cookie-run-kingdom.gif" width="60" alt="Cookie Run Kingdom">
