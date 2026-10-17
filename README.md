@@ -56,6 +56,10 @@ Cookie Tier:
 * **Fun Fact:** I didn't break the seal—the seal simply realized it looked better shattered.
 * **Fanmail:** Send complaints directly into the nearest void; they make great acoustics.
 
+<p align="center">
+  <img src="./assets/shadow-milk-cookie-cookie-run-kingdom%20(4).gif" width="300" alt="Shadow Milk Cookie">
+</p>
+
 ---
 
 # ✨ Featured Acts & Pinned Performances:
