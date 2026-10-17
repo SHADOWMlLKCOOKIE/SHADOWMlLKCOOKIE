@@ -9,9 +9,6 @@
 
 ### If you don't like it, feel free to get out! I love my dears Sugar, Flour, Spice ♥ <img src="./assets/shadow-milk-laughing.gif" width="250" alt="Shadow Milk Cookie laughing"> 
 
-<p align="center">
-  <img src="./assets/shadowsugar-crk.gif" width="300" alt="Shadow Milk Cookie and Eternal Sugar Cookie">
-</p>
 
 <p align="center">
   <img src="./assets/shadow-milk-cookie-cookie-run-kindgom.gif" width="300" alt="Shadow Milk Cookie">
@@ -49,7 +46,9 @@ Cookie Tier:
 | **The Dark Enchantress War** | Act II | A TOTAL Flop. | Archived |
 | **The Timeline of Fates** | Act III | Standing Ovation | Ongoing... |
 
-
+<p align="center">
+  <img src="./assets/shadowsugar-crk.gif" width="300" alt="Shadow Milk Cookie and Eternal Sugar Cookie">
+</p>
 
 ---
 
