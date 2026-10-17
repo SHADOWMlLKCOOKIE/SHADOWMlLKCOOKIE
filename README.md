@@ -2,11 +2,9 @@
   <img src="https://i.giphy.com/D9bDvxJs7kZAXNYNnj.gif" width="1000" alt="My GIF">
 </p>
 
+<img width="1920" height="1080" alt="gif" src="https://media.tenor.com/HA92NiRQYn8AAAAM/chronos-shadow-milk-cookie.gif" />
 
-
-
-<div align="center">
-  <img src="https://media.tenor.com/HA92NiRQYn8AAAAM/chronos-shadow-milk-cookie.gif" width="492" alt="Chronos Shadow Milk Cookie GIF">
+[<img width="3500" height="1080" alt="Image" src="https://ov16-engine.flamingtext.com/netfu/tmp28003/flamingtext_com-997356.png" />](https://domainofdeceit.atabook.org/)
 
 
 
@@ -22,7 +20,7 @@
 
 ---
 
-### 📜 Program Notes (About Me)
+### 📜 Program Notes (Small Details About Me)
 * **Role:** Beast Cookie of Deceit & Grand Master of the Theatre of Delusion
 * **Alignment:** Chaotic - Theatrical
 * **Fun Fact:** I didn't break the seal—the seal simply realized it looked better shattered.
@@ -30,7 +28,7 @@
 
 ---
 
-### 🎪 Featured Acts & Pinned Performances
+### 🎪 Featured Acts & Pinned Performances:
 
 | Performance | Act | Audience Reception | Status |
 | :--- | :--- | :--- | :--- |
