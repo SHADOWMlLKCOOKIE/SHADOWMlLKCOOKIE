@@ -34,9 +34,12 @@ Cookie Tier:
 
 > *"Ah! Finally! The stage is all set, the audience is breathing in hype, and every great performance requires a liiiiittle... misdirection. Isn't that absolutely right my darlings?"*
 
-</a>
+<p align="center">
   <a href="https://www.tumblr.com/night-of-the-crumbled/806661943142367232/crk-soul-jam-dividers-i-decided-to-make?source=share">
-</a>
+    <img src="./assets/atgvea.gif" alt="Credit: Cookie Run Soul Jam dividers" width="500">
+  </a>
+  
+</p>
 </p>
 <h1 align="center">My dearest Soul Jam I love my Soul Jam more than anything~</h1>
 <p align="center">
