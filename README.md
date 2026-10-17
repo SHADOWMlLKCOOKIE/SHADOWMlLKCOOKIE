@@ -37,14 +37,24 @@ Cookie Tier:
 > *"Ah! Finally! The stage is all set, the audience is breathing in hype, and every great performance requires a liiiiittle... misdirection. Isn't that absolutely right my darlings?"*
 
 <p align="center">
-  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
+  <img src="./assets/Cookies%20(3).png" width="3000" alt="Eternal Sugar Cookie divider">
 </p>
   
-</p>
 <h1 align="center">My dearest Soul Jam I love my Soul Jam more than anything~</h1>
-<p align="center">
-  <img src="./assets/shadoooww.png" width="300" alt="Shadow Milk Cookie">
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="./assets/Cookies%20(1).webp" width="200" alt="Candy Apple Cookie sticker">
+    </td>
+    <td align="center" valign="middle">
+      <img src="./assets/shadoooww.png" width="300" alt="Shadow Milk Cookie">
+    </td>
+    <td align="center" valign="middle">
+      <img src="./assets/Cookies%20(3).webp" width="200" alt="Black Sapphire Cookie sticker">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -64,12 +74,9 @@ Cookie Tier:
   </table>
 
 <p align="center">
-  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
+  <img src="./assets/Cookies%20(6).png" width="3000" alt="Mystic Flour Cookie divider">
 </p>
 
-</div>
-
----
 <table>
   <tr>
     <td valign="top" width="65%">
@@ -88,7 +95,7 @@ Cookie Tier:
 </table>
 
 <p align="center">
-  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
+  <img src="./assets/Cookies%20(1).png" width="3000" alt="Burning Spice Cookie divider">
 </p>
 
 <table>
@@ -109,7 +116,7 @@ Cookie Tier:
 </table>
 
 <p align="center">
-  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
+  <img src="./assets/Cookies%20(2).png" width="3000" alt="Silent Salt Cookie divider">
 </p>
 
 <table>
@@ -207,7 +214,7 @@ Cookie Tier:
 </table>
 
 <p align="center">
-  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
+  <img src="./assets/Cookies%20(3).png" width="3000" alt="Eternal Sugar Cookie divider">
 </p>
 
 
