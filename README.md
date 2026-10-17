@@ -47,7 +47,7 @@ Cookie Tier:
 | :--- | :--- | :--- | :--- |
 | **The Theatre of Lies** | Act I | 10/10 Gasps | Succeeded |
 | **The Dark Enchantress War** | Act II | A TOTAL Flop. | Archived |
-| **The Timeline of Fates** | Act III | Standing Ovation | Compiling... |
+| **The Timeline of Fates** | Act III | Standing Ovation | Ongoing... |
 
 
 
