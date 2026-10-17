@@ -6,15 +6,15 @@
 
 ### 🎭 Status: **Live on Stage**
 - 🔭 **Currently Staging:** Rewriting the script of Beast-Yeast (without asking permission)
-- 🧵 **Favorite Prop:** Sovereign of Deceit / Heavy silk puppet strings
-- 💬 **Current Mood:** Performing for an audience of fools and fans alike
+- 🧵 **Favorite Prop:** Animatronic of Deceit / Heavy silk royal blue puppet strings
+- 💬 **Current Mood:** Performing for an audience of fools and fans alike, or foolish cookies I adore~
 - 📍 **Location:** Behind the curtain (or right behind you)
 
 ---
 
 ### 📜 Program Notes (About Me)
-* **Role:** Beast Cookie of Deceit & Grand Master of the Theater of Delusion
-* **Alignment:** Chaotic Theatrical
+* **Role:** Beast Cookie of Deceit & Grand Master of the Theatre of Delusion
+* **Alignment:** Chaotic - Theatrical
 * **Fun Fact:** I didn't break the seal—the seal simply realized it looked better shattered.
 * **Fanmail:** Send complaints directly into the nearest void; they make great acoustics.
 
