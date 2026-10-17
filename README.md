@@ -1,17 +1,18 @@
-# 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙛𝙤𝙡𝙠𝙨! 𝙍𝙚𝙖𝙙𝙮 𝙛𝙤𝙧 𝙨𝙤𝙢𝙚 𝙜𝙞𝙜𝙜𝙡𝙚𝙨? 🎭
+<h1 align="center" style="font-size: 40px;">
+  W̳e̳l̳c̳o̳m̳e̳ ̳f̳o̳l̳k̳s̳!̳ ̳R̳e̳a̳d̳y̳ ̳f̳o̳r̳ ̳s̳o̳m̳e̳ ̳g̳i̳g̳g̳l̳e̳s̳?̳ 🎭
+</h1>
 
 
 
-<p align="center">
-  <img src="https://media.tenor.com/HA92NiRQYn8AAAAM/chronos-shadow-milk-cookie.gif" width="450" alt="Shadow Milk Cookie">
-</p>
-  
+<div align="center">
+  <img src="https://media.tenor.com/HA92NiRQYn8AAAAM/chronos-shadow-milk-cookie.gif" width="492" alt="Chronos Shadow Milk Cookie GIF">
+  <br>
+  <img src="https://i.pinimg.com/736x/56/0e/bc/560ebc9aac155e17a20c1ca492e7649c.jpg" width="492" alt="Shadow Milk Cookie">
+</div>
 
 
-![My Image](https://i.pinimg.com/736x/56/0e/bc/560ebc9aac155e17a20c1ca492e7649c.jpg)
 
-
-> *"The stage is set, the audience is breathing, and every great performance requires a little... misdirection. Isn't that absolutely right my darlings?"*
+> *"Ah! Finally! The stage is all set, the audience is breathing in hype, and every great performance requires a liiiiittle... misdirection. Isn't that absolutely right my darlings?"*
 
 ---
 
@@ -35,15 +36,15 @@
 
 | Performance | Act | Audience Reception | Status |
 | :--- | :--- | :--- | :--- |
-| **The Eternal Play** | Act I | 10/10 Gasps | Running |
-| **Sealing the Beast** | Intermission | Confused Silence | Archived |
-| **Grand Deception.exe** | Act II | Standing Ovation | Compiling... |
+| **The Theatre of Lies** | Act I | 10/10 Gasps | Succeeded |
+| **The Dark Enchantress War** | Act II | A TOTAL Flop. | Archived |
+| **The Timeline of Fates** | Act III | Standing Ovation | Compiling... |
 
 
 
 ---
 
-> *"Did you really check the source code looking for the truth? How adorable."*
+> *"Did you really check the source code looking for the truth? How adoooooorable."*
 
 
 <!--
