@@ -4,8 +4,6 @@
 
 <img width="1920" height="1080" alt="gif" src="https://media.tenor.com/HA92NiRQYn8AAAAM/chronos-shadow-milk-cookie.gif" />
 
-[<img width="3500" height="1080" alt="Image" src="https://ov16-engine.flamingtext.com/netfu/tmp28003/flamingtext_com-997356.png" />](https://domainofdeceit.atabook.org/)
-
 
 
 > *"Ah! Finally! The stage is all set, the audience is breathing in hype, and every great performance requires a liiiiittle... misdirection. Isn't that absolutely right my darlings?"*
@@ -41,6 +39,9 @@
 ---
 
 > *"Did you really check the source code looking for the truth? How adoooooorable."*
+>
+> [<img width="3500" height="1080" alt="Image" src="https://ov16-engine.flamingtext.com/netfu/tmp28003/flamingtext_com-997356.png" />](https://domainofdeceit.atabook.org/)
+
 
 
 <!--
