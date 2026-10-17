@@ -9,8 +9,8 @@
   <img src="./assets/crk-cookie-run.gif" width="60" alt="Cookie Run">
 </p>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SHADOWMlLKCOOKIE.visitor-badge&left_text=PUPPETS&left_color=%230b81fe&right_color=%23142180&radius=10&height=30" alt="PUPPETS visitor badge"/>
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SHADOWMlLKCOOKIE.visitor-badge&left_text=PUPPETS%20I%20CAUGHT&left_color=%233477fe&right_color=%235cabff&radius=10&height=30" alt="visitor badge"/>
+</p>
 
 <p align="center">
   <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
