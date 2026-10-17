@@ -1,5 +1,7 @@
-<h1 align="center" style="font-size: 40px;">
+<h1 align="center">
+  <span style="color: #00005B;">
   W̳e̳l̳c̳o̳m̳e̳ ̳f̳o̳l̳k̳s̳!̳ ̳R̳e̳a̳d̳y̳ ̳f̳o̳r̳ ̳s̳o̳m̳e̳ ̳g̳i̳g̳g̳l̳e̳s̳?̳ 🎭
+  </span>
 </h1>
 
 
