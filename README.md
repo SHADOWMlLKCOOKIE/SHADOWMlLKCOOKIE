@@ -124,7 +124,7 @@ Cookie Tier:
         <tr>
           <th>Ship</th>
           <th>Verdict</th>
-          <th>Reason</th>
+          <th>Why?</th>
         </tr>
         <tr>
           <td><b>ShadowSugar</b></td>
