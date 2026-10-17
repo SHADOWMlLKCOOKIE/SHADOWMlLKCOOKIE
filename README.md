@@ -34,8 +34,8 @@ Cookie Tier:
 
 > *"Ah! Finally! The stage is all set, the audience is breathing in hype, and every great performance requires a liiiiittle... misdirection. Isn't that absolutely right my darlings?"*
 
-</h1>
-My dearest Soul Jam I love my Soul Jam more than anything~
+</p>
+<h1 align="center">My dearest Soul Jam I love my Soul Jam more than anything~</h1>
 <p align="center">
   <img src="./assets/shadoooww.png" width="300" alt="Shadow Milk Cookie">
 </p>
