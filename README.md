@@ -1,9 +1,11 @@
 # 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙛𝙤𝙡𝙠𝙨! 𝙍𝙚𝙖𝙙𝙮 𝙛𝙤𝙧 𝙨𝙤𝙢𝙚 𝙜𝙞𝙜𝙜𝙡𝙚𝙨? 🎭
 
 
+
 <p align="center">
-  <img src="https://media.tenor.com/HA92NiRQYn8AAAAM/chronos-shadow-milk-cookie.gif" width="300" alt="Shadow Milk Cookie GIF">
+  <img src="https://media.tenor.com/HA92NiRQYn8AAAAM/chronos-shadow-milk-cookie.gif" width="450" alt="Shadow Milk Cookie">
 </p>
+  
 
 
 ![My Image](https://i.pinimg.com/736x/56/0e/bc/560ebc9aac155e17a20c1ca492e7649c.jpg)
