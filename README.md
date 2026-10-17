@@ -7,9 +7,6 @@
 
 <div align="center">
   <img src="https://media.tenor.com/HA92NiRQYn8AAAAM/chronos-shadow-milk-cookie.gif" width="492" alt="Chronos Shadow Milk Cookie GIF">
-  <br>
-  <img src="https://i.pinimg.com/736x/56/0e/bc/560ebc9aac155e17a20c1ca492e7649c.jpg" width="492" alt="Shadow Milk Cookie">
-</div>
 
 
 
