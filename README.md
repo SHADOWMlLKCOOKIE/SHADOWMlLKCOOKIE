@@ -10,8 +10,6 @@
 </p>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SHADOWMlLKCOOKIE.visitor-badge&left_text=PUPPETS&left_color=%230b81fe&right_color=%23142180&radius=10&height=30" alt="PUPPETS visitor badge"/>
- <img src="https://visitor-badge.laobi.icu/badge?page_id=SHADOWMlLKCOOKIE.follower-badge&left_text=WORSHIPPERS&left_color=%230b81fe&right_color=%23142180&radius=10&height=30" alt="WORSHIPPERS follower badge"/>
-</p>
 
 
 <p align="center">
