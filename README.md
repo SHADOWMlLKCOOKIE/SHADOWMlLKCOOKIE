@@ -4,8 +4,17 @@
 
 <img width="1920" height="1080" alt="gif" src="https://media.tenor.com/HA92NiRQYn8AAAAM/chronos-shadow-milk-cookie.gif" />
 
+<h1 align="center">
+Cookie Tier:
 <p align="center">
   <img src="https://static.wikia.nocookie.net/cookierunkingdom/images/1/17/Beast.png/revision/latest/scale-to-width-down/110?cb=20250408213524" height="24" alt="BEAST emblem">
+
+
+
+<p align="center">
+  <img src="./assets/shadow-milk-laughing.gif" width="250" alt="Shadow Milk Cookie laughing">
+</p>
+
 
 
 > *"Ah! Finally! The stage is all set, the audience is breathing in hype, and every great performance requires a liiiiittle... misdirection. Isn't that absolutely right my darlings?"*
