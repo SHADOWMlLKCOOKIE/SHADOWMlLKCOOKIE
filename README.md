@@ -40,6 +40,25 @@ Cookie Tier:
   <img src="./assets/shadoooww.png" width="300" alt="Shadow Milk Cookie">
 </p>
 
+<div align="center">
+
+  <h2>🌟 Gender & Pronouns 🎭</h2>
+
+  <table>
+    <tr>
+      <td align="center">
+        <b>🌊 Gender</b><br>
+        Genderfluid
+      </td>
+      <td align="center">
+        <b>💫 Pronouns</b><br>
+        Any pronouns
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 ---
 <table>
   <tr>
