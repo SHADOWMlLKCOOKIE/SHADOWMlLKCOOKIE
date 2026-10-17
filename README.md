@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <img src="./assets/shadow-milk-cookie-cookie-run-kindgom.gif" width="300" alt="Shadow Milk Cookie">
+  <img src="./assets/tumblr_15b22bb47eef675bdd7cfbf72e37b992_e215bd36_250.webp" width="300" alt="Cookie sticker">
 </p>
 <h1 align="center">
 Cookie Tier:
@@ -230,7 +230,11 @@ Cookie Tier:
   <img src="./assets/cutie-pie-shadow-milk-cookie.gif" width="300" alt="Cute Shadow Milk Cookie">
 </p>
 
+<p align="center">
+  <img src="./assets/Cookies%20(2).webp" width="500" alt="Cookie sticker">
+</p>
 
 <!--
 **SHADOWMlLKCOOKIE/SHADOWMlLKCOOKIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
