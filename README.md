@@ -1,4 +1,4 @@
-### Welcome folks! Ready for some giggles? 👋
+# Welcome folks! Ready for some giggles? 👋
 
 > *"The stage is set, the audience is breathing, and every great performance requires a little... misdirection. Isn't that right?"*
 
@@ -28,13 +28,6 @@
 | **Sealing the Beast** | Intermission | Confused Silence | Archived |
 | **Grand Deception.exe** | Act II | Standing Ovation | Compiling... |
 
----
-
-### 🔮 Box Office & Metrics
-<p align="left">
-  <img src="https://vercel.app" alt="Audience Stats" height="150" />
-  <img src="https://herokuapp.com" alt="Performance Streak" height="150" />
-</p>
 
 ---
 
