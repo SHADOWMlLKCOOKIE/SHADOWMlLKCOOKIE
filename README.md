@@ -2,16 +2,20 @@
   <img src="https://i.giphy.com/D9bDvxJs7kZAXNYNnj.gif" width="1000" alt="My GIF">
 </p>
 
-<img width="1920" height="1080" alt="gif" src="https://media.tenor.com/HA92NiRQYn8AAAAM/chronos-shadow-milk-cookie.gif" />
+<p align="center">
+  <img src="./assets/chronos-shadow-milk-cookie.gif" width="1920" alt="Shadow Milk Cookie">
+</p>
 
 
-<img src="./assets/shadow-milk-laughing.gif" width="250" alt="Shadow Milk Cookie laughing">
+### If you don't like it, feel free to get out! I love my dears Sugar, Flour, Spice ♥ <img src="./assets/shadow-milk-laughing.gif" width="250" alt="Shadow Milk Cookie laughing"> 
 
 <p align="center">
   <img src="./assets/shadowsugar-crk.gif" width="300" alt="Shadow Milk Cookie and Eternal Sugar Cookie">
 </p>
 
-
+<p align="center">
+  <img src="./assets/shadow-milk-cookie-cookie-run-kindgom.gif" width="300" alt="Shadow Milk Cookie">
+</p>
 <h1 align="center">
 Cookie Tier:
 <p align="center">
@@ -53,6 +57,7 @@ Cookie Tier:
 >
 > [<img width="3500" height="1080" alt="Image" src="https://ov16-engine.flamingtext.com/netfu/tmp28003/flamingtext_com-997356.png" />](https://domainofdeceit.atabook.org/)
 
+<img src="./assets/cutie-pie-shadow-milk-cookie.gif" width="300" alt="Cute Shadow Milk Cookie">
 
 
 <!--
