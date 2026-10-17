@@ -116,6 +116,56 @@ Cookie Tier:
   <img src="./assets/shadowsugar-crk.gif" width="300" alt="Shadow Milk Cookie and Eternal Sugar Cookie">
 </p>
 
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h2>💘 Shipping Chart &amp; Relationship Verdicts</h2>
+      <table>
+        <tr>
+          <th>Ship</th>
+          <th>Verdict</th>
+          <th>Reason</th>
+        </tr>
+        <tr>
+          <td><b>ShadowSugar</b></td>
+          <td>💙 Support</td>
+          <td>Sweet~!</td>
+        </tr>
+        <tr>
+          <td><b>ShadowFlour</b></td>
+          <td>💙 Support</td>
+          <td>Elegant~!</td>
+        </tr>
+        <tr>
+          <td><b>ShadowSpice</b></td>
+          <td>💙 Support</td>
+          <td>Hell Yeah~!</td>
+        </tr>
+        <tr>
+          <td><b>ShadowSalt</b></td>
+          <td>💛 Semi-Support</td>
+          <td>ONLY IF HE ISN'T WITH ELDER FAERIE!</td>
+              </tr>
+        <tr>
+          <td><b>ShadowXOC</b></td>
+          <td>💜 Depends</td>
+          <td>Simply depends if I like you that way or not.</td>
+        </tr>
+        <tr>
+        </tr>
+        <tr>
+          <td><b>ShadowVanilla</b></td>
+          <td>❌ Doesn't Support</td>
+          <td>No means no.</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="middle" width="35%" align="center">
+      <img src="./assets/shadow-milk-cookie-shadow-milk.gif" width="220" alt="Shadow Milk Cookie">
+    </td>
+  </tr>
+</table>
+
 ---
 
 > *"Did you really check the source code looking for the truth? How adoooooorable."*
