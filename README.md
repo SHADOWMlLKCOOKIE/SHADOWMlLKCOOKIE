@@ -10,7 +10,9 @@
   <img src="./assets/crk-cookie-run.gif" width="60" alt="Cookie Run">
 </p>
 
-
+<p align="center">
+  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
+</p>
 <p align="center">
   <img src="https://i.giphy.com/D9bDvxJs7kZAXNYNnj.gif" width="1000" alt="My GIF">
 </p>
@@ -35,11 +37,9 @@ Cookie Tier:
 > *"Ah! Finally! The stage is all set, the audience is breathing in hype, and every great performance requires a liiiiittle... misdirection. Isn't that absolutely right my darlings?"*
 
 <p align="center">
-  <a href="https://www.tumblr.com/night-of-the-crumbled/806661943142367232/crk-soul-jam-dividers-i-decided-to-make?source=share">
-    <img src="./assets/atgvea.gif" alt="Credit: Cookie Run Soul Jam dividers" width="500">
-  </a>
-  
+  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
 </p>
+  
 </p>
 <h1 align="center">My dearest Soul Jam I love my Soul Jam more than anything~</h1>
 <p align="center">
@@ -63,6 +63,10 @@ Cookie Tier:
     </tr>
   </table>
 
+<p align="center">
+  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
+</p>
+
 </div>
 
 ---
@@ -82,7 +86,11 @@ Cookie Tier:
     </td>
   </tr>
 </table>
----
+
+<p align="center">
+  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
+</p>
+
 <table>
   <tr>
     <td valign="top" width="65%">
@@ -95,12 +103,15 @@ Cookie Tier:
       </ul>
     </td>
     <td valign="middle" width="35%" align="center">
-      <img src="./assets/shadow-milk-cookie-cookie-run-kingdom%20(4).gif" width="220" alt="Shadow Milk Cookie">
+      <img src="./assets/shadow-milk-cookie-cookie-run-kingdom%20(4).gif" width="250" alt="Shadow Milk Cookie">
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
+</p>
+
 <table>
   <tr>
     <td valign="top" width="65%">
@@ -139,6 +150,10 @@ Cookie Tier:
 </table>
 <p align="center">
   <img src="./assets/shadowsugar-crk.gif" width="300" alt="Shadow Milk Cookie and Eternal Sugar Cookie">
+</p>
+
+<p align="center">
+  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
 </p>
 
 <table>
@@ -191,7 +206,10 @@ Cookie Tier:
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
+</p>
+
 
 > *"Did you really check the source code looking for the truth? How adoooooorable."*
 >
