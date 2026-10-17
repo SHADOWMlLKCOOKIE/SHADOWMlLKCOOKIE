@@ -127,7 +127,7 @@ Cookie Tier:
       </table>
     </td>
     <td valign="middle" width="35%" align="center">
-      <img src="./assets/shadow-milk-cookie-cookie-run-kingdom (3).gif" width="300" alt="Shadow Milk Cookie">
+      <img src="./assets/shadow-milk-cookie-cookie-run-kingdom (3).gif" width="250" alt="Shadow Milk Cookie">
     </td>
   </tr>
 </table>
