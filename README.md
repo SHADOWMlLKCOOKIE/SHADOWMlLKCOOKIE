@@ -1,6 +1,15 @@
-# Welcome folks! Ready for some giggles? 🎭
+# 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙛𝙤𝙡𝙠𝙨! 𝙍𝙚𝙖𝙙𝙮 𝙛𝙤𝙧 𝙨𝙤𝙢𝙚 𝙜𝙞𝙜𝙜𝙡𝙚𝙨? 🎭
 
-> *"The stage is set, the audience is breathing, and every great performance requires a little... misdirection. Isn't that right?"*
+
+<p align="center">
+  <img src="https://media.tenor.com/HA92NiRQYn8AAAAM/chronos-shadow-milk-cookie.gif" width="300" alt="Shadow Milk Cookie GIF">
+</p>
+
+
+![My Image](https://i.pinimg.com/736x/56/0e/bc/560ebc9aac155e17a20c1ca492e7649c.jpg)
+
+
+> *"The stage is set, the audience is breathing, and every great performance requires a little... misdirection. Isn't that absolutely right my darlings?"*
 
 ---
 
@@ -27,6 +36,7 @@
 | **The Eternal Play** | Act I | 10/10 Gasps | Running |
 | **Sealing the Beast** | Intermission | Confused Silence | Archived |
 | **Grand Deception.exe** | Act II | Standing Ovation | Compiling... |
+
 
 
 ---
