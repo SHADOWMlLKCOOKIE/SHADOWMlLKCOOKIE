@@ -2,8 +2,11 @@
   <img src="https://i.giphy.com/D9bDvxJs7kZAXNYNnj.gif" width="1000" alt="My GIF">
 </p>
 
-<img width="1920" height="1080" alt="gif" src="https://media.tenor.com/HA92NiRQYn8AAAAM/chronos-shadow-milk-cookie.gif" /> 
-<img src="./assets/shadow-milk-laughing.gif" width="250" alt="Shadow Milk Cookie laughing">
+
+<p align="center">
+  <img src="./assets/shadow-milk-laughing.gif" width="250" alt="Shadow Milk Cookie laughing">
+</p>
+
 
 
 <h1 align="center">
