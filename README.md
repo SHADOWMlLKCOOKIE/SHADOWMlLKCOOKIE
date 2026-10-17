@@ -16,7 +16,8 @@
 <h1 align="center">
 Cookie Tier:
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/cookierunkingdom/images/1/17/Beast.png/revision/latest/scale-to-width-down/110?cb=20250408213524" height="50" alt="BEAST emblem">
+  <img src="https://static.wikia.nocookie.net/cookierunkingdom/images/1/17/Beast.png/revision/latest/scale-to-width-down/500?cb=20250408213524" height="300" alt="BEAST emblem">
+</p>
 
 > *"Ah! Finally! The stage is all set, the audience is breathing in hype, and every great performance requires a liiiiittle... misdirection. Isn't that absolutely right my darlings?"*
 
