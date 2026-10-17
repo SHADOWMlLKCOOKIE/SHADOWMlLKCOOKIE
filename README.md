@@ -3,6 +3,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/cookierunkingdom/images/1/17/Beast.png/revision/latest/scale-to-width-down/110?cb=20250408213524" height="24" alt="BEAST emblem">
+
 
 
 
