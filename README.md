@@ -1,4 +1,4 @@
-# Welcome folks! Ready for some giggles? 👋
+# Welcome folks! Ready for some giggles? 🎭
 
 > *"The stage is set, the audience is breathing, and every great performance requires a little... misdirection. Isn't that right?"*
 
