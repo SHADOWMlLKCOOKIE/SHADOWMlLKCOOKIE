@@ -226,8 +226,11 @@ Cookie Tier:
 
 > *"Did you really check the source code looking for the truth? How adoooooorable."*
 >
-> [<img width="3500" height="1080" alt="Image" src="https://ov16-engine.flamingtext.com/netfu/tmp28003/flamingtext_com-997356.png" />](https://domainofdeceit.atabook.org/)
-
+<p align="center">
+  <a href="https://domainofdeceit.atabook.org/">
+    <img src="./assets/68747470733a2f2f6f7631362d656e67696e652e666c616d696e67746578742e636f6d2f6e657466752f746d7032383030332f666c616d696e67746578745f636f6d2d3939373335362e706e67.png" width="3500" alt="Visit my Atabook">
+  </a>
+</p>
 <p align="center">
   <img src="./assets/cutie-pie-shadow-milk-cookie.gif" width="300" alt="Cute Shadow Milk Cookie">
 </p>
