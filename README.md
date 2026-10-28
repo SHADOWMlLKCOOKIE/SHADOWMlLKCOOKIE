@@ -1,3 +1,9 @@
+<h1 align="center">I love my BEASTS 🔷 </h1>
+
+<p align="center">
+  <img src="./assets/My%20loves.png" width="100%" alt="My loves">
+</p>
+
 <p align="center">
   <img src="./assets/c0pppaw5e9ge1.jpeg" width="100%" alt="Profile banner">
 </p>
