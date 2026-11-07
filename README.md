@@ -68,7 +68,7 @@
 <table align="center">
   <tr>
     <th align="center">SOUL JAM</th>
-    <th align="center">HONORARY MEMBER</th>
+    <th align="center">ELEMENT</th>
     <th align="center">WHAT I THINK OF THEM</th>
     <th align="center">GITHUB USERNAME</th>
   </tr>
