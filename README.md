@@ -6,7 +6,7 @@
       <h1>🔷 BEASTS 🔷</h1>
     </td>
     <td rowspan="4" align="center" valign="middle">
-      <img src="./assets/and%20I%20wink.gif" width="180">
+      <img src="./assets/and%20I%20wink.gif" width="180"> They're all mine, and mine only ♥
     </td>
   </tr>
 
