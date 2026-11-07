@@ -4,7 +4,6 @@
   <tr>
     <th colspan="3" align="center">🔷 BEASTS 🔷</th>
     <td rowspan="4" align="center" valign="top">
-      <img src="./assets/and%20I%20wink.gif" width="200"><br>
       <img src="./assets/ShadowFlour.png" width="200"><br>
       <img src="./assets/Beastshugging.png" width="200"><br>
       <img src="./assets/ShadowSugarthings.png" width="200">
