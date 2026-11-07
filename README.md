@@ -1,47 +1,35 @@
-<div align="left">
 
+<div align="left">
 <table>
   <tr>
-    <th colspan="3" align="center">
-      <img src="./assets/handsomepuppetteer.png" width="250">
-    </th>
-    <th rowspan="5" align="center" valign="middle">
-      <img src="./assets/and%20I%20wink.gif" width="250">
-    </th>
-    <th rowspan="5" align="center" valign="middle">
-      <img src="./assets/Beastshugging.png" width="250">
-    </th>
-  </tr>
-
-  <tr>
     <th colspan="3" align="center">🔷 BEASTS 🔷</th>
+    <td rowspan="4" align="center" valign="top">
+      <img src="./assets/and%20I%20wink.gif" width="200"><br>
+      <img src="./assets/ShadowFlour.png" width="200"><br>
+      <img src="./assets/Beastshugging.png" width="200"><br>
+      <img src="./assets/ShadowSugarthings.png" width="200">
+    </td>
   </tr>
-
   <tr>
     <td align="center"><img src="./assets/Apathy.png" width="65"></td>
     <td><strong>APATHY</strong></td>
     <td><sub><a href="https://github.com/HymnOfTheTides">@HymnOfTheTides</a></sub></td>
   </tr>
-
   <tr>
     <td align="center"><img src="./assets/Destruction.png" width="65"></td>
     <td><strong>DESTRUCTION</strong></td>
     <td><sub><a href="https://github.com/Thespicetemple">@Thespicetemple</a></sub></td>
   </tr>
-
   <tr>
     <td align="center"><img src="./assets/Sloth.png" width="65"></td>
     <td><strong>SLOTH</strong></td>
     <td><sub><a href="https://github.com/Sugarybliss">@Sugarybliss</a></sub></td>
   </tr>
 </table>
-
 </div>
 
 
 </div>
-
-
 
 <h1 align="center">I love my BEASTS 🔷 </h1>
 
