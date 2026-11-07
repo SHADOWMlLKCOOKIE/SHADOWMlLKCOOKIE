@@ -322,7 +322,7 @@ Cookie Tier:
           <td>Archived</td>
         </tr>
         <tr>
-          <td><b>The Timeline of Fates</b></td>
+          <td><b>The Timeline of Fate</b></td>
           <td>Act III</td>
           <td>Standing Ovation</td>
           <td>Ongoing...</td>
