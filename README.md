@@ -1,33 +1,31 @@
-<div align="center">
+<div align="left">
 
 <table>
   <tr>
-    <th colspan="3" align="center">
-      <strong>🔷 BEASTS 🔷</strong>
+    <th colspan="3" align="center">🔷 BEASTS 🔷</th>
+    <th rowspan="4" align="center">
+      <img src="./assets/and%20I%20wink.gif" width="250">
     </th>
   </tr>
-  
   <tr>
     <td align="center"><img src="./assets/Apathy.png" width="65"></td>
     <td><strong>APATHY</strong></td>
     <td><sub><a href="https://github.com/HymnOfTheTides">@HymnOfTheTides</a></sub></td>
   </tr>
-
   <tr>
     <td align="center"><img src="./assets/Destruction.png" width="65"></td>
     <td><strong>DESTRUCTION</strong></td>
     <td><sub><a href="https://github.com/Thespicetemple">@Thespicetemple</a></sub></td>
   </tr>
-
-</tr>
-      <td align="center"><img src="./assets/Sloth.png" width="65"></td>
+  <tr>
+    <td align="center"><img src="./assets/Sloth.png" width="65"></td>
     <td><strong>SLOTH</strong></td>
     <td><sub><a href="https://github.com/Sugarybliss">@Sugarybliss</a></sub></td>
   </tr>
-
 </table>
 
 </div>
+
 
 
 <h1 align="center">I love my BEASTS 🔷 </h1>
