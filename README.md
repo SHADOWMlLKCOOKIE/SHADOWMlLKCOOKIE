@@ -9,7 +9,7 @@
   <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
 </p>
     <td rowspan="4" align="center" valign="middle">
-      <img src="./assets/and%20I%20wink.gif" width="180"> They're all miiiine~ ♥ Their loyalty is all I need! Now shoo, SILENT SALT COOKIE! Back to your poor pitiful imbecile faerie husband!"
+      <img src="./assets/and%20I%20wink.gif" width="180"> They're all miiiine~ ♥ Their loyalty is all I need! Now shoo, SILENT SALT COOKIE! Back to your poor pitiful imbecile faerie husband!
     </td>
   </tr>
 
