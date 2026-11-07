@@ -2,10 +2,10 @@
   <img src="./assets/shadowmilknamethings.png" width="50%" alt="Profile Banner">
 </p>
 
-<h1 align="center">
-  <i>While I'm not fond of the deus ex machina trope... Sometimes a dramatic entrance is juuust what we need...</i>
+<h2 align="center">
+  <i>While I'm not fond of the deus ex machina trope... Sometimes a dramatic entrance is juuust what we need... Oh, it's been a hot minute, hmmm?</i>
   <img src="./assets/Shadow_milk_default_2.png" width="300" align="middle" alt="Decoration">
-</h1>
+</h2>
 
 <div align="center">
 <table align="center">
