@@ -11,6 +11,9 @@
 <table align="center">
   <tr>
     <td colspan="4" align="center">
+      <p align="center">
+  <img src="./assets/handsomepuppetteer.png" width="500" alt="Handsome Puppeteer">
+</p>
       <h1>🔷 BEASTS 🔷</h1>
     </td>
     <p align="center">
