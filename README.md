@@ -1,4 +1,3 @@
-
 <div align="center">
 <table align="center">
   <tr>
@@ -47,6 +46,70 @@
 </table>
 
 
+  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
+
+
+
+
+<h1 align="center">💠 SHADOW MILK'S ANCIENT COOKIE RANKINGS 💠</h1>
+
+<p align="center">
+  <i>Welcome, welcome! Allow me to judge these so-called heroes! COUGH.. Half-baked-fools.. Let's see who deserves a standing ovation... and who deserves to be laughed off the stage!!!</i>
+</p>
+
+<details>
+<summary align="center"><b>💠 CLICK HERE TO VIEW THE ANCIENT RANKINGS! BOO! 💠</b></summary>
+
+<table>
+<thead>
+<tr>
+<th align="center">RANK</th>
+<th align="center">ANCIENT COOKIE</th>
+<th align="center">SHADOW MILK'S THOUGHTS</th>
+<th align="center">GITHUB USERNAME</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">🥇 1st</td>
+<td align="center"><img src="./assets/Freedom.png" width="200" alt="White Lily Cookie"><br><b>White Lily Cookie</b></td>
+<td align="center"><i>Fascinating! A little curiosity can lead to such wonderfully disastrous consequences!</i></td>
+<td align="center">
+  <a href="https://github.com/StairwayToFreedom">@StairwayToFreedom</a>
+</td>
+</tr>
+<tr>
+<td align="center">🥈 2nd</td>
+<td align="center"><img src="./assets/Passion.png" width="200" alt="Hollyberry Cookie"><br><b>Hollyberry Cookie</b></td>
+<td align="center"><i>HAHAHA! So loud, so reckless, and SO terribly exhausting!</i></td>
+<td align="center">WHOOOOO?</td>
+</tr>
+<tr>
+<td align="center">🥉 3rd</td>
+<td align="center"><img src="./assets/Abundance.png" width="200" alt="Golden Cheese Cookie"><br><b>Golden Cheese Cookie</b></td>
+<td align="center"><i>Oh, the vanity! The grandeur! She certainly knows how to put on a show!</i></td>
+<td align="center">WHOOOO?</td>
+</tr>
+<tr>
+<td align="center">🏅 4th</td>
+<td align="center"><img src="./assets/Resolution.png" width="200" alt="Dark Cacao Cookie"><br><b>Dark Cacao Cookie</b></td>
+<td align="center"><i>A stern old king. How terribly difficult it must be to have absolutely no sense of humour!</i></td>
+<td align="center">WHOOOOO?</td>
+</tr>
+<tr>
+<td align="center">💩 5th</td>
+<td align="center"><img src="./assets/Truth.png" width="200" alt="Pure Vanilla Cookie"><br><b>Pure Vanilla Cookie</b></td>
+<td align="center"><i>Oh, that insufferable little paragon of Truth! How utteeeeerly BORING! Do spare me another one of your tedious sermons!</i></td>
+<td align="center">WHOO?</td>
+</tr>
+</tbody>
+</table>
+
+</details>
+
+
+
+  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
 
 
 
