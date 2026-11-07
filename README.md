@@ -5,30 +5,33 @@
     <td colspan="4" align="center">
       <h1>🔷 BEASTS 🔷</h1>
     </td>
+    <p align="center">
+  <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
+</p>
     <td rowspan="4" align="center" valign="middle">
-      <img src="./assets/and%20I%20wink.gif" width="180"> They're all mine, and mine only ♥
+      <img src="./assets/and%20I%20wink.gif" width="180"> They're all miiiine~ ♥ Their loyalty is all I need! Now shoo, SILENT SALT COOKIE! Back to your poor pitiful imbecile faerie husband!"
     </td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/Apathy.png" width="65"></td>
+    <td align="center"><img src="./assets/Apathy.png" width="350"></td>
     <td><strong>APATHY</strong></td>
     <td><sub><a href="https://github.com/HymnOfTheTides">@HymnOfTheTides</a></sub></td>
-    <td align="center"><img src="./assets/ShadowFlour.png" width="150"></td>
+    <td align="center"><img src="./assets/ShadowFlour.png" width="350"></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/Destruction.png" width="65"></td>
+    <td align="center"><img src="./assets/Destruction.png" width="300"></td>
     <td><strong>DESTRUCTION</strong></td>
     <td><sub><a href="https://github.com/Thespicetemple">@Thespicetemple</a></sub></td>
-    <td align="center"><img src="./assets/Beastshugging.png" width="150"></td>
+    <td align="center"><img src="./assets/Beastshugging.png" width="350"></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/Sloth.png" width="65"></td>
+    <td align="center"><img src="./assets/Sloth.png" width="350"></td>
     <td><strong>SLOTH</strong></td>
     <td><sub><a href="https://github.com/Sugarybliss">@Sugarybliss</a></sub></td>
-    <td align="center"><img src="./assets/ShadowSugarthings.png" width="150"></td>
+    <td align="center"><img src="./assets/ShadowSugarthings.png" width="350"></td>
   </tr>
 </table>
 </div>
