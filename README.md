@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="./assets/shadowmilknamethings.png" width="50%" alt="Profile Banner">
+</p>
+
 <h1 align="center">
-  While I'm not fond of the deus ex machina trope... Sometimes a dramatic entrance is juuust what we need...
-  Aw, hitting the road already? But we've still got a long way 'will the intermission! Oh, it's been a hot minute, hmmm?
+  <i>While I'm not fond of the deus ex machina trope... Sometimes a dramatic entrance is juuust what we need...</i>
 </h1>
 
 <div align="center">
