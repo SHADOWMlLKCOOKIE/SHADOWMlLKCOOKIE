@@ -8,7 +8,7 @@
   <img src="./assets/Cookies%20(5).png" width="1920" alt="Cookie Run decorative divider">
 </p>
     <td rowspan="4" align="center" valign="middle">
-      <img src="./assets/and%20I%20wink.gif" width="180"> They're all miiiine~ ♥ Their loyalty is all I need! Now shoo, SILENT SALT COOKIE! Back to your poor pitiful imbecile faerie husband!
+      <img src="./assets/and%20I%20wink.gif" width="180"> <i>They're all miiiine~ ♥ Their loyalty is all I need! Now shoo, SILENT SALT COOKIE! Back to your poor pitiful imbecile faerie husband!<i>
     </td>
   </tr>
 
@@ -43,6 +43,43 @@
       <img src="./assets/angrybeasts.png" width="500" alt="Angry Beasts">
     </td>
   </tr>
+</table>
+
+<i>WHATEVER! WHO NEEDS HIM, RIGHT? Cause we juuust gooooooooot....<i>
+
+<h1 align="center">👑 HONORARY MEMBERS 👑</h1>
+
+<p align="center">
+  <i>Ah, yes! Even my grandest circle has room for a few rather extraordinary exceptions! They may not have been part of the original act, but their presence has certainly earned them a place upon this stage!</i>
+</p>
+
+<table align="center">
+  <tr>
+    <th align="center">SOUL JAM</th>
+    <th align="center">HONORARY MEMBER</th>
+    <th align="center">WHAT I THINK OF THEM</th>
+    <th align="center">GITHUB USERNAME</th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="./assets/Infestation.png" width="200" alt="Lumine Syrup Cookie">
+    </td>
+    <td align="center"><b>INFESTATION</b></td>
+    <td align="center"><i>my petite delicate doll!!!<i></td>
+<td align="center">
+  <a href="https://github.com/LumineSyrupCookie">@LumineSyrupCookie</a>
+</td>
+
+  <tr>
+    <td align="center">
+      <img src="./assets/Vengeance.png" width="200" alt="Black Pearl Cookie">
+    </td>
+    <td align="center"><b>VENGEANCE</b></td>
+    <td align="center"><i>my glamorous marvelous siren!!<i></td>
+<td align="center">
+  <a href="https://github.com/DuskgloomSovereign">@DuskgloomSovereign</a>
+</td>
 </table>
 
 
