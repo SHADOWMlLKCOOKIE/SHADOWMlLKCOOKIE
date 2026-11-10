@@ -3,7 +3,7 @@
 </p>
 
 <h4 align="center">
-  <i>While I'm not fond of the deus ex machina trope... Sometimes a dramatic entrance is juuust what we need... Aw, hitting the road already? But we've still got a long way 'will the intermission! Oh, it's been a hot minute, hmmm?</i>
+  <i>While I'm not fond of the deus ex machina trope... Sometimes a dramatic entrance is juuust what we need... Aw, hitting the road already? But we've still got a long way 'till the intermission! Oh, it's been a hot minute, hmmm?</i>
   <img src="./assets/Shadow_milk_default_2.png" width="200" align="middle" alt="Decoration">
 </h4>
 
