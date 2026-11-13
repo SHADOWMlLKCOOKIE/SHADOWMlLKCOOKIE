@@ -44,6 +44,13 @@
     <td><sub><a href="https://github.com/Sugarybliss">@Sugarybliss</a></sub></td>
     <td align="center"><img src="./assets/ShadowSugarthings.png" width="350"></td>
   </tr>
+
+  <tr>
+    <td align="center"><img src="./assets/Silence.png" width="350"></td>
+    <td><strong>SILENCE</strong></td>
+    <td><sub><a href="https://github.com/FAILUREFORLIFE">@FAILUREFORLIFE</a></sub> BOOO TOMATO TOMATO! 🍅</td>
+    <td align="center"><img src="./assets/ShadowSaltthings.png" width="350"></td>
+  </tr>
 </table>
 </div>
 <table align="center">
