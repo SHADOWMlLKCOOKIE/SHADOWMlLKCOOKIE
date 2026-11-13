@@ -56,7 +56,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./assets/ShadowSaltthings.png" width="500" alt="Shadow Salt Cookie">
+      <img src="./assets/OHNOSHADOWMILKSTAB.png" width="500" alt="Shadow Salt Cookie">
     </td>
     <td align="center">
       <img src="./assets/angrybeasts.png" width="500" alt="Angry Beasts">
